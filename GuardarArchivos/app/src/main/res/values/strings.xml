@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GuardarArchivos</string>
+    <string name="guardar_archivos_en_telf">Guardar Archivos en telf</string>
+    <string name="guardar">Guardar</string>
+    <string name="recuperar">Recuperar</string>
+    <string name="escribe_un_texto">Escribe un texto</string>
+    <string name="guardarext">GuardarExt</string>
+    <string name="recuperarext">RecuperarExt</string>
+</resources>

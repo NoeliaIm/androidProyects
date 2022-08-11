@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PersistencePrueba</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="insertar">Insertar</string>
+    <string name="listar">Listar</string>
+    <string name="borrar">BORRAR</string>
+    <string name="modificar">MODIFICAR</string>
+    <string name="c_digo">Código</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentsPutExtra</string>
+    <string name="nombre">nombre</string>
+    <string name="hola">saludo</string>
+</resources>

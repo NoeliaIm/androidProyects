@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PersistenciaSQLite</string>
+    <string name="autor">Autor</string>
+    <string name="t_tulo">Título</string>
+    <string name="insertar">Insertar</string>
+    <string name="listar">Listar</string>
+    <string name="borrar">Borrar</string>
+    <string name="modificar">Modificar</string>
+</resources>

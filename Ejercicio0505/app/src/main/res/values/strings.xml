@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Android_Tema5_Ejercicio5</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>

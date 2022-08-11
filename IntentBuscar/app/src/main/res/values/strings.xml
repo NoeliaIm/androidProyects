@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentBuscar</string>
+    <string name="hello">Hello World, PrimeraActividad!</string>
+    <string name="ok_boton1">Lanzar Actividad2</string>
+    <string name="app_name2">Actividad2</string>
+    <string name="ok_boton2">Buscar</string>
+    <string name="escribe_para_buscar">Escribe el texto para buscar</string>
+</resources>

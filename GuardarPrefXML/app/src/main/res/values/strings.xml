@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GuardarPrefXML</string>
+    <string name="name">Name</string>
+    <string name="guardar">Guardar</string>
+    <string name="recuperar">Recuperar</string>
+    <string name="email">Email</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">guardarArchivos1</string>
+    <string name="titulo">Guardar y recuperar contenido de archivos</string>
+    <string name="guardar">Guardar</string>
+    <string name="recuperar">Recuperar</string>
+    <string name="escribe_un_texto">Escribe un texto</string>
+</resources>
